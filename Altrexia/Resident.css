@@ -1,0 +1,21 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 987px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 927px;
+  margin: 0 253px 60px -253px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}@font-face {
+  font-family: 'AtariSmall';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AtariSmall.ttf);
+}

@@ -1,0 +1,31 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: AtariSmall;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: AtariSmall;
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: AtariSmall;
+  margin: 8px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 40px auto 60px;
+  padding: 8px 33px;
+}@font-face {
+  font-family: 'AtariSmall';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AtariSmall.ttf);
+}
